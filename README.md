@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a 2nd-year postdoctoral researcher at the Wulff Lab in the pharmacology department at the University of California, Davis. My primary project at UC Davis is to identify novel lead compounds using virtual screening and to construct homology models to understand the molecular mechanism of action. Also, I am collaborating with Lawrence Livermore National Laboratory on a machine learning project for pose classification of 3D complex structures using deep convolutional neural networks.
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory, where my primary focus is on a machine learning project involving the classification of poses for 3D complex structures using deep convolutional neural networks. Additionally, I am engaged in a collaborative effort with the Wulff Lab at UC Davis, where we are working on identifying novel lead compounds through virtual screening and developing homology models to gain insights into the molecular mechanisms of action.
 <!--
 **heesung80/heesung80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
